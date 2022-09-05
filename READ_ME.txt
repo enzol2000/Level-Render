@@ -1,3 +1,13 @@
+Location of the files:
+	
+	Main Code and CMake source folder is in \Vulkan
+
+	executable(.exe): \Vulkan\Executable
+
+	blender and gamelevel.txt are in: \Vulkan\Render\level
+
+	.h2b files are in: \Vulkan\Render\OBJS\h2b
+
 Controls:
 
 Camera Moves:
@@ -17,15 +27,3 @@ Special Key:
 	LeftCtrl - hold to move faster
 	F1 - change to second level (Working only in debug mode)
 
-
-
-Location of the files:
-
-
-	blender and gamelevel.txt are in: \Vulkan\Render\level
-
-	.h2b files are in: \Vulkan\Render\OBJS\h2b
-
-	executable(.exe): \Vulkan\Executable
-	
-	pictures showing running in my machine: \Pictures
